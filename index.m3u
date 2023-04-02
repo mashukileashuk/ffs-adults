@@ -74,6 +74,8 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/213.ts
 #EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 INT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv8_tr_international.png" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: TV 8 INT
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/242.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVEM" tvg-logo="" group-title="🇹🇷 TR | ULUSAL",TR: TVEM
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1167.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Vatan TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vatan-tv-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: Vatan TV
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/5147.ts
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 HD+" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/360_tv_tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | ULUSAL",TR: 360 HD+
@@ -689,8 +691,8 @@ http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdc
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/209940.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: FLASH HD+" tvg-logo="" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: FLASH HD+
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/179606.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/can-tv-tr.png" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: Can TV
-http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/37398.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV HD" tvg-logo="" group-title="🇹🇷 TR | HABER",TR: Can TV HD
+http://solo-v7.sytes.net:2082/live/radu/JQLMWAKbCM/1163.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2018/06/YOL-TV.jpg" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: YOL TV
 http://stream.live-ip.tv:8080/live/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/112513.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: ARTI TV HD" tvg-logo="https://i.ytimg.com/vi/xpoetRCJKqY/maxresdefault.jpg" tvg-id2="TV=" group-title="🇹🇷 TR | HABER",TR: ARTI TV HD
